@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AvaNiyantra",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web application for centralized monitoring of Narcotic drug supply chains; adeptly resolving supply chain challenges, ensuring smooth traceability and regulatory compliance, showcasing success in boosting transparency and security in the pharmaceutical sector.",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Sorting Visualizer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web application that visually demonstrated various sorting algorithms, showcasing time and space complexity analysis; increased understanding of algorithmic concepts among 500+ users.",
+    url: "https://sinjini46.github.io/Sorting_Visualizer/",
   },
   {
-    title: "My Resume Site",
+    title: "FoodyVille",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a web application facilitate food ordering from multiple restaurants, providing a user-friendly interface for customers to place orders, manage menu items, and track delivery status.",
+    url: "https://foodexpresshub.000webhostapp.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Multiplayer tic-tac-toe with a realtime chat",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A web application that facilitates multiple players to compete against each other, yielding 40% more engagement; fostering interactive communication via integrated chat feature.",
   },
 ];
 
